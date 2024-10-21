@@ -235,15 +235,15 @@
 }
 
 .portfolio__card_type_chamarel {
-  background-image: url("/images/portfolio1.jpg");
+  background-image: url("../images/portfolio1.jpg");
 }
 
 .portfolio__card_type_golfclub {
-  background-image: url("/images/portfolio2.jpg");
+  background-image: url("../images/portfolio2.jpg");
 }
 
 .portfolio__card_type_hiking {
-  background-image: url("/images/portfolio3.jpg");
+  background-image: url("../images/portfolio3.jpg");
 }
 
 .portfolio__card-info {
